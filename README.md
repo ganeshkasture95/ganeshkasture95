@@ -9,8 +9,8 @@ A dedicated and enthusiastic developer with a strong passion for building websit
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [ganeshkasture.vercel.app](http://ganeshkasture.vercel.app)
 * ✉️  You can contact me at [ganeshkasture9595@gmail.com](mailto:ganeshkasture9595@gmail.com)
-* 🚀  I'm currently working on [SunoBharat a AI Podcast SaaS](http://www.canva.com/design/DAGHD_u3Y0M/WdiA15-sfaSXlGvrdngDXQ/edit?utm_content=DAGHD_u3Y0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* 🧠  I'm learning React Native and Next-js
+* 🚀  I'm currently working on Flutter Social Media app
+* 🧠  I'm learning Flutter , React Native and Next-js
 * 🤝  I'm open to collaborating on SaaS Projects
 * ⚡  I am always on the lookout for new challenges and opportunities to grow as a developer.
 
